@@ -1,1 +1,1 @@
-# Sales-Prediction-ML-Model
+# Sales-Prediction-Machine Learning-Model
